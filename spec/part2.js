@@ -482,6 +482,7 @@
     });
 
     describe('shuffle', function() {
+      //should shuffle
 
       it('should not modify the original object', function() {
         var numbers = [4, 5, 6];
